@@ -44,3 +44,21 @@ Techniques: EDA, Feature Engineering, Regression Modeling, Cross-Validation
 Regression: Baseline model for interpretability
 
 Evaluation Metrics: RMSE, MAE, R² Score
+
+**Key Insights**
+
+Neighborhood and OverallQual are strong predictors of sale price.
+
+LotArea, GrLivArea, and GarageArea show positive correlation with price.
+
+YearBuilt and RemodAdd reflect modernization impact on valuation.
+
+Categorical features like MSZoning and SaleCondition influence pricing trends.
+
+**Future Enhancements**
+
+Incorporate geospatial analysis using property coordinates.
+
+Apply advanced feature selection and dimensionality reduction.
+
+Deploy model as a web app for interactive price prediction.
